@@ -1,8 +1,6 @@
 # Welcome, my secret (not so secret) code base!!!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HgPBrito)](https://github.com/HgPBrito)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgpbrito/)](https://www.linkedin.com/in/hgpbrito/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HgPBrito)](https://github.com/HgPBrito) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgpbrito/)](https://www.linkedin.com/in/hgpbrito/)
 
 <!--
 **HgPBrito/HgPBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

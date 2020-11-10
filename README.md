@@ -1,6 +1,6 @@
-<img align="right" width="400" height="400" src="https://pixabay.com/pt/illustrations/laptop-l%C3%A1pis-escrit%C3%B3rio-1512838/">
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-# Bem vindo, my secret (not so secret) code base!!!
+# Bem vindo a minha base secreta (não tão secreta) de código!!!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HgPBrito)](https://github.com/HgPBrito) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgpbrito/)](https://www.linkedin.com/in/hgpbrito/)
 

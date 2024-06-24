@@ -114,7 +114,7 @@
       Aqui listo os Repositórios que mais gostei de trabalhar, que realmente vi que agreguou ao meu conhecimento!
     </p> 
     <table>
-      <tr>
+	    <tr>
         <td width="50%" valign="top">
           <h2>
             <a href="https://github.com/HgPBrito">
@@ -130,6 +130,33 @@
             </summary>
             <p>
               Projeto em estudo..., sendo realizado na formação Explorer da Rocketseat
+            </p>
+            <b>Tecnologias Usadas</b>
+            <br/>
+            <p>
+              <code>HTML5</code>,&nbsp;
+              <code>CSS3</code>,&nbsp;
+              <code>GitHub</code>
+            </p>
+          </details>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" valign="top">
+          <h2>
+            <a href="https://github.com/HgPBrito/explorerProjetoFotolog003">
+              Fotoblog com animações e filtros
+            </a>
+          </h2>
+          <img src="https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/explorerProjetoFotolog003.jpg?raw=true" alt="Repository image" width="400"/>
+          <br/>
+          <br/>
+          <details>
+            <summary>
+              <b>📕 Resumo e Tecnologias Usadas</b>
+            </summary>
+            <p>
+              Projeto de estudo utilizando conceito de Grid, Flex, filtros e animações com o @keyframe no CSS, realizado na formação Explorer da Rocketseat
             </p>
             <b>Tecnologias Usadas</b>
             <br/>

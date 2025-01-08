@@ -1,4 +1,4 @@
-<main align="center">>
+<main align="center">
 
   <section align="center">
     <h1 id="title" align="center">
@@ -19,6 +19,7 @@
     <a href="https://github.com/HgPBrito/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HgPBrito&layout=compact&hide_progress=true&theme=github_dark_dimmed" />        
     </a>
+<p></p>
     <details align="center">
       <summary>📃 Saiba mais...(sobre mim).</summary>  
       </br>

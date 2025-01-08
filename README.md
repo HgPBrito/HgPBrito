@@ -1,18 +1,15 @@
 <main align="center">
-
-  <section align="center">
+  <div align="center">
     <h1 id="title" align="center">
       Hugo P. de Brito - Desenvolvedor Full-Stack!
     </h1>
-  </section>
-
+  </div>
   <p align="center">
     <a href="#sobre-mim">Sobre Mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
     <a href="#skills">Skills e Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#contato">Entre em contato!</a>
   </p>
-
-  <section align="center">
+  <div align="center">
     <h2 id="sobre-mim" align="center">
       Sobre Mim
     </h2>
@@ -23,10 +20,10 @@
     <details align="center">
       <summary>📃 Saiba mais...(sobre mim).</summary>  
       </br>
-      <section align="center">
+      <div align="center">
         <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-      </section>
-  	  <section align="center">
+      </div>
+  	  <div align="center">
         <h2>
           Um pouco sobre mim...
         </h2>
@@ -54,20 +51,19 @@
     	<a href="https://hgpbrito.github.io/curriculo/">
           <img src="https://img.shields.io/badge/-Site_de_Visitas_(em_construção...)-grey?style=for-the-badge&link=https://hgpbrito.github.io/curriculo/" />        
     	</a>  
-  	  </section>
+  	  </div>
     </details>
-  </section>
-
-  <section align="center">
+  </div>
+  <div align="center">
     <h2 align="center" id="skills">
       Skills e Ferramentas...
     </h2>
-    <section align="right">
+    <div align="right">
       <a lign="left" href="https://skillicons.dev">
         skillicons.dev
       </a>
-    </section >
-	  <section align="left">
+    </div >
+	  <div align="left">
       <h4>
         Frontend:
       </h4>
@@ -104,22 +100,16 @@
 
 ![Em Estudo](https://skillicons.dev/icons?i=aws,docker,react,sass,tailwind,angular,figma,heroku,mongodb,firebase,regex)
     
-  </section>
-
-  <section align="center">
+  </div>
+  <div align="center">
       <h2 align="center" id="contato">
           Entre em contato!
       </h2>
-      <a href="https://www.linkedin.com/in/hgpbrito/">
+      <a align="center" href="https://www.linkedin.com/in/hgpbrito/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
-	  <h2></h2>
-  </section> 
-
-  <section align="center">
-    <p>"Vida longa e próspera!" </p>
-   <h2>🖖</h2>
-  </section>
+	  <h2 align="center" ></h2>
+  </div>
 </main>
 
 

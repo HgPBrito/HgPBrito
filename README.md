@@ -1,16 +1,15 @@
+<main align="center">>
 
-<main>
-
-  <h1 class="home-title" align="center" >
-    <p>Sou um Desenvolvedor FullStack</p>
-    <p>... ou melhor...</p>
-    <p class="neon">UM DESENVOLVEDOR DE COMPETÊNCIAS!</p>
-  </h1>
+  <section align="center">
+    <h1 id="title" align="center">
+      Hugo P. de Brito - Desenvolvedor Full-Stack!
+    </h1>
+  </section>
 
   <p align="center">
     <a href="#sobre-mim">Sobre Mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
     <a href="#skills">Skills e Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#projetos-casos-estudo">Projetos e Casos de Estudo de Sucesso!</a>
+    <a href="#contato">Entre em contato!</a>
   </p>
 
   <section align="center">
@@ -90,190 +89,31 @@
     Ferramentas e Tecnologias:
   </h4>
 
-![Ferramentas e Tecnologias](https://skillicons.dev/icons?i=windows,powershell,ubuntu,git,github,npm,spring,postman,md,discord,notion)
+![Ferramentas e Tecnologias](https://skillicons.dev/icons?i=windows,powershell,ubuntu,git,github,npm,spring,postman,figma,md,discord,notion)
 
   <h4>
     IDEs:
   </h4>
 
-![IDEs](https://skillicons.dev/icons?i=vscode,eclipse,vim)
+![IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea)
 
   <h4>
     Interesse de Estudo:
   </h4>
 
-![Interesse de Estudo](https://skillicons.dev/icons?i=aws,docker,react,sass,tailwind,figma,heroku,kotlin,mongodb,regex)
+![Em Estudo](https://skillicons.dev/icons?i=aws,docker,react,sass,tailwind,angular,figma,heroku,mongodb,firebase,regex)
     
   </section>
 
   <section align="center">
-    <h2 id="projetos-casos-estudo" align="center">
-      Repositórios de Projetos e Casos de Estudo de Sucesso!
-    </h2> 
-    <p align="center">
-      Aqui listo os Repositórios que mais gostei de trabalhar, que realmente vi que agreguou ao meu conhecimento!
-    </p> 
-    <table>
-	<tr>
-        <td width="50%" valign="top">
-          <h2>
-            <a href="https://github.com/HgPBrito">
-              Em Estudo...
-            </a>
-          </h2>
-          <img src="https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/emBreve.jpg?raw=true" alt="Repository image" width="400"/>
-          <br/>
-          <br/>
-          <details>
-            <summary>
-              <b>📕 Resumo e Tecnologias Usadas</b>
-            </summary>
-            <p>
-              Projeto em estudo..., sendo realizado na formação Explorer da Rocketseat
-            </p>
-            <b>Tecnologias Usadas</b>
-            <br/>
-            <p>
-              <code>HTML5</code>,&nbsp;
-              <code>CSS3</code>,&nbsp;
-              <code>GitHub</code>
-            </p>
-          </details>
-        </td>
-	<td valign="top">
-          <h2>
-            <a href="https://github.com/HgPBrito/ExplorerIntensivao01-04SemLimites">
-              Site apresentação
-            </a>
-          </h2>
-          <img src="https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/ExplorerIntensivao01-04SemLimites.jpg?raw=true" alt="Repository image" width="400"/>
-          <br/>
-          <br/>
-          <details>
-            <summary>
-              <b>📕 Resumo e Tecnologias Usadas</b>
-            </summary>
-            <p>
-              Projeto de estudo utilizando todos os conceitos aprendidos até agora, desde do Grid, Flex Box, anotações de Keyframe para animações e media para responsividade no CSS, formulario no html, realizado na formação Explorer da Rocketseat
-            </p>
-            <b>Tecnologias Usadas</b>
-            <br/>
-            <p>
-              <code>HTML5</code>,&nbsp;
-              <code>CSS3</code>,&nbsp;
-              <code>GitHub</code>
-            </p>
-          </details>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" valign="top">
-          <h2>
-            <a href="https://github.com/HgPBrito/explorerProjetoFotolog003">
-              Fotoblog com animações e filtros
-            </a>
-          </h2>
-          <img src="https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/explorerProjetoFotolog003.jpg?raw=true" alt="Repository image" width="400"/>
-          <br/>
-          <br/>
-          <details>
-            <summary>
-              <b>📕 Resumo e Tecnologias Usadas</b>
-            </summary>
-            <p>
-              Projeto de estudo utilizando conceito de Grid, Flex, filtros e animações com o @keyframe no CSS, realizado na formação Explorer da Rocketseat
-            </p>
-            <b>Tecnologias Usadas</b>
-            <br/>
-            <p>
-              <code>HTML5</code>,&nbsp;
-              <code>CSS3</code>,&nbsp;
-              <code>GitHub</code>
-            </p>
-          </details>
-        </td>
-        <td valign="top">
-          <h2>
-            <a href="https://github.com/HgPBrito/explorerProjetoGridGalaxies003">
-              Uso do Grid
-            </a>
-          </h2>
-          <img src="https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/explorerProjetoGridGalaxies003.jpg?raw=true" alt="Repository image" width="400"/>
-          <br/>
-          <br/>
-          <details>
-            <summary>
-              <b>📕 Resumo e Tecnologias Usadas</b>
-            </summary>
-            <p>
-              Projeto de estudo utilizando conceito de Grid no CSS, realizado na formação Explorer da Rocketseat
-            </p>
-            <b>Tecnologias Usadas</b>
-            <br/>
-            <p>
-              <code>HTML5</code>,&nbsp;
-              <code>CSS3</code>,&nbsp;
-              <code>GitHub</code>
-            </p>
-          </details>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" valign="top">
-          <h2>
-            <a href="https://github.com/HgPBrito/explorerProjetoResponsividadeReceita003">
-              Responsividade com Flex
-            </a>
-          </h2>
-          <img src="https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/explorerProjetoResponsividadeReceita003.jpg?raw=true" alt="Repository image" width="400"/>
-          <br/>
-          <br/>
-          <details>
-            <summary>
-              <b>📕 Resumo e Tecnologias Usadas</b>
-            </summary>
-            <p>
-              Projeto de estudo utilizando conceito de Flex Box no CSS, realizado na formação Explorer da Rocketseat
-            </p>
-            <b>Tecnologias Usadas</b>
-            <br/>
-            <p>
-              <code>HTML5</code>,&nbsp;
-              <code>CSS3</code>,&nbsp;
-              <code>GitHub</code>
-            </p>
-          </details>
-        </td>
-        <td valign="top">
-          <h2>
-            <a href="https://github.com/HgPBrito/explorerDesafioCriandoFormularios003">
-              Criação de Formulários
-            </a>
-          </h2>
-          <img src="https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/explorerDesafioCriandoFormularios003.jpg?raw=true" alt="Repository image" width="400"/>
-          <br/>
-          <br/>
-          <details>
-            <summary>
-              <b>📕 Resumo e Tecnologias Usadas</b>
-            </summary>
-            <p>
-              Projeto de estudo utilizando tag form, realizado na formação Explorer da Rocketseat
-            </p>
-            <b>Tecnologias Usadas</b>
-            <br/>
-            <p>
-              <code>HTML5</code>,&nbsp;
-              <code>CSS3</code>,&nbsp;
-              <code>GitHub</code>
-            </p>
-          </details>
-        </td>
-      </tr>      
-    </table>
-  </section>
-
-
+      <h2 align="center" id="contato">
+          Entre em contato!
+      </h2>
+      <a href="https://www.linkedin.com/in/hgpbrito/">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+	  <h2></h2>
+  </section> 
 
   <section align="center">
     <p>"Vida longa e próspera!" </p>
